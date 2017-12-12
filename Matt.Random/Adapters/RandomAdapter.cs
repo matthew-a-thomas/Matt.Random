@@ -1,4 +1,4 @@
-﻿namespace Matt.Random
+﻿namespace Matt.Random.Adapters
 {
     using System;
 

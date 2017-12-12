@@ -4,8 +4,8 @@
     <Title>Matt.Random</Title>
     <Description>Tools for random number generation.</Description>
     <Copyright>2017 Matthew Thomas</Copyright>
-    <VersionPrefix>1.0.0</VersionPrefix>
-    <VersionSuffix />
+    <VersionPrefix>2.0.0</VersionPrefix>
+    <VersionSuffix>alpha</VersionSuffix>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company />
     <Authors>Matthew Thomas</Authors>
