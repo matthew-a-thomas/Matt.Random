@@ -2,6 +2,10 @@
 {
     using System;
 
+    /// <inheritdoc />
+    /// <summary>
+    /// Adapts a <see cref="T:System.Random" /> into an <see cref="T:Matt.Random.IRandom" />.
+    /// </summary>
     public sealed class RandomAdapter : IRandom
     {
         private readonly Random _random;
