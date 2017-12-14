@@ -4,8 +4,8 @@
     <Title>Matt.Random</Title>
     <Description>Tools for random number generation.</Description>
     <Copyright>2017 Matthew Thomas</Copyright>
-    <VersionPrefix>2.1.0</VersionPrefix>
-    <VersionSuffix>alpha</VersionSuffix>
+    <VersionPrefix>2.2.0</VersionPrefix>
+    <VersionSuffix/>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company />
     <Authors>Matthew Thomas</Authors>
@@ -13,4 +13,7 @@
     <PackageProjectUrl>https://github.com/matthew-a-thomas/Matt.Random</PackageProjectUrl>
     <RepositoryUrl>https://github.com/matthew-a-thomas/Matt.Random</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Matt.Bits" Version="1.0.0" />
+  </ItemGroup>
 </Project>
