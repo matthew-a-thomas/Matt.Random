@@ -10,11 +10,15 @@
     {
         private readonly RandomNumberGenerator _rng;
 
+        /// <summary>
+        /// Adapts a <see cref="T:System.Security.Cryptography.RandomNumberGenerator" /> into an <see cref="T:Matt.Random.IRandom" />.
+        /// </summary>
         public RandomNumberGeneratorAdapter(RandomNumberGenerator rng)
         {
             _rng = rng;
         }
 
+        /// <inheritdoc />
         public void Populate(
             byte[] buffer,
             int offset,

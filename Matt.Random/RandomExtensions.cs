@@ -7,6 +7,9 @@
     using Adapters;
     using Bits;
 
+    /// <summary>
+    /// Extension methods for <see cref="IRandom"/>.
+    /// </summary>
     public static class RandomExtensions
     {
         /// <summary>
