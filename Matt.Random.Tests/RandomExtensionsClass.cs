@@ -1,9 +1,9 @@
-﻿namespace Tests
+﻿namespace Matt.Random.Tests
 {
     using System.Linq;
-    using Matt.Random;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
     using Moq;
+    using Random;
 
     [TestClass]
     public class RandomExtensionsClass

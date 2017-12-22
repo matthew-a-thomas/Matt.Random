@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matt.Random", "Matt.Random\Matt.Random.csproj", "{2AD23606-0F95-4A14-A668-402956F1109A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E38486B7-C3E9-4C35-85CE-38C193895E27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matt.Random.Tests", "Matt.Random.Tests\Matt.Random.Tests.csproj", "{E38486B7-C3E9-4C35-85CE-38C193895E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
